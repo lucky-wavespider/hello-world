@@ -1,4 +1,4 @@
 # hello-world
-for git study again>>>>
 
-The first repository for me.
+My name is lucky-wavespider
+
